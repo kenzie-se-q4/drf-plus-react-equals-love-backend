@@ -25,7 +25,7 @@ Extra credit (4 points):
 
 #### **Submission**
 
-You'll generate 2 of repositories via GitHub Classroom, one for the front end and one for the back end.
+You'll generate 2 repositories via GitHub Classroom, one for the front end and one for the back end.
 
 Link each one in the readme for the repos, then submit either one.
 
